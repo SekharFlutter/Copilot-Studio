@@ -1,0 +1,120 @@
+{
+  "source_note": "Compiled from publicly reported theatrical release information for India as of August 16, 2026. This is NOT a live scrape of PVR's booking system (pvrcinemas.com renders listings via JavaScript per city/cinema and isn't scrapeable). Showtimes, formats, and city availability will vary by cinema and should be confirmed on the PVR app/website before booking.",
+  "last_updated": "2026-08-16",
+  "country": "India",
+  "cinema_chain": "PVR",
+  "movies": [
+    {
+      "title": "Batwara 1947",
+      "language": "Hindi",
+      "genre": ["Period", "Action", "Drama"],
+      "cast": ["Sunny Deol", "Preity Zinta", "Karan Deol", "Shabana Azmi"],
+      "release_date": "2026-08-14",
+      "formats": ["2D"],
+      "status": "now_showing"
+    },
+    {
+      "title": "Awarapan 2",
+      "language": "Hindi",
+      "genre": ["Action", "Drama"],
+      "cast": [],
+      "release_date": "2026-08-07",
+      "formats": ["2D"],
+      "status": "now_showing"
+    },
+    {
+      "title": "Toxic",
+      "language": "Kannada",
+      "genre": ["Action"],
+      "cast": [],
+      "release_date": "2026-08-01",
+      "formats": ["2D"],
+      "status": "now_showing"
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "language": "English",
+      "genre": ["Action", "Superhero"],
+      "cast": [],
+      "release_date": "2026-07-31",
+      "formats": ["2D", "3D", "IMAX"],
+      "status": "now_showing"
+    },
+    {
+      "title": "DC",
+      "language": "Tamil",
+      "genre": ["Thriller"],
+      "cast": ["Lokesh Kanagaraj"],
+      "release_date": "2026-08-14",
+      "formats": ["2D"],
+      "status": "now_showing",
+      "notes": "Marks director Lokesh Kanagaraj's acting debut; inspired by Devdas."
+    },
+    {
+      "title": "The End of Oak Street",
+      "language": "English",
+      "genre": ["Mystery", "Thriller"],
+      "cast": [],
+      "release_date": "2026-08-14",
+      "formats": ["2D", "IMAX"],
+      "status": "now_showing",
+      "notes": "Exclusive theatrical and IMAX release in India, available in English, Hindi, Tamil and Telugu."
+    },
+    {
+      "title": "Agadha",
+      "language": "Telugu",
+      "genre": ["Supernatural", "Mystery", "Thriller"],
+      "cast": ["Kamakshi Bhaskarla", "Ulka Gupta", "Shravan Reddy"],
+      "release_date": "2026-08-14",
+      "formats": ["2D"],
+      "status": "now_showing"
+    },
+    {
+      "title": "Vishwanath and Sons",
+      "language": "Telugu",
+      "genre": ["Family", "Drama"],
+      "cast": ["Sanjay Vishwanath"],
+      "release_date": "2026-08-07",
+      "formats": ["2D"],
+      "status": "now_showing"
+    },
+    {
+      "title": "Cocktail 2",
+      "language": "Hindi",
+      "genre": ["Romantic Comedy", "Drama"],
+      "cast": ["Shahid Kapoor", "Rashmika Mandanna", "Kriti Sanon", "Sanjay Dutt"],
+      "release_date": "2026-06-19",
+      "formats": ["2D"],
+      "status": "now_showing",
+      "notes": "Still running in limited shows; moving to streaming (Netflix) around Aug 14, 2026."
+    },
+    {
+      "title": "Main Vaapas Aaunga",
+      "language": "Hindi",
+      "genre": ["Romance", "Drama"],
+      "cast": ["Diljit Dosanjh", "Naseeruddin Shah", "Sharvari", "Vedang Raina"],
+      "release_date": "2026-06-12",
+      "formats": ["2D"],
+      "status": "now_showing",
+      "notes": "Crossed ₹55 crore at the box office; moving to Netflix Aug 7, 2026."
+    },
+    {
+      "title": "Korean Kanakaraju",
+      "language": "Telugu",
+      "genre": ["Action"],
+      "cast": [],
+      "release_date": "2026-08-07",
+      "formats": ["2D"],
+      "status": "now_showing"
+    },
+    {
+      "title": "Thudakkam",
+      "language": "Malayalam",
+      "genre": ["Drama"],
+      "cast": [],
+      "release_date": "2026-08-07",
+      "formats": ["2D"],
+      "status": "now_showing"
+    }
+  ]
+}
